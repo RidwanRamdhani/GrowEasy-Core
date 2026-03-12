@@ -1,0 +1,9 @@
+[submodule "GrowEasy"]
+	path = GrowEasy
+	url = https://github.com/RidwanRamdhani/GrowEasy.git
+[submodule "GrowEasy-UI"]
+	path = GrowEasy-UI
+	url = https://github.com/RidwanRamdhani/GrowEasy-UI.git
+[submodule "Hackathon-AI"]
+	path = Hackathon-AI
+	url = https://github.com/Rayya12/Hackathon-AI.git
