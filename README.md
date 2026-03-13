@@ -104,6 +104,8 @@ GIN_MODE=release
 GEMINI_MODEL=gemini-3.1-flash-lite-preview
 ```
 
+Terminal Command:
+
 ```bash
 go mod download
 go run main.go
@@ -125,6 +127,8 @@ Create a .env file in the Front end root directory. You can use a template or ad
 ```env
 VITE_API_URL=http://localhost:8080
 ```
+
+Terminal Command:
 
 ```bash
 npm install
